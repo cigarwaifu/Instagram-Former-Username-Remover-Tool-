@@ -16,11 +16,11 @@ def K():return J.choice(['cyan','blue','green','yellow','magenta'])
 def L(C,D=.05):
 	for B in C:A(B,end='',flush=True);G.sleep(D)
 	A()
-def M():B=I.render('Yoseif',font='block',colors=[K()],align='left',space=False);A(B)
+def M():B=I.render('maan',font='block',colors=[K()],align='left',space=False);A(B)
 def N():
-	C=f"\n{B.MAGENTA}Telegram: {B.WHITE}@Loosbieh\n{B.MAGENTA}   by {B.WHITE}yoseif{F.RESET_ALL}\n"
+	C=f"\n{B.MAGENTA}Telegram: {B.WHITE}@unbefool\n{B.MAGENTA}   by {B.WHITE}maan{F.RESET_ALL}\n"
 	for D in C.split('\n'):A(' '*40+D)
-def U():A=f"{B.RED}FILE HAS EXPIRED.{F.RESET_ALL}\n{B.YELLOW}DM {B.MAGENTA}yoseif {B.YELLOW}to Buy or RENEW.{F.RESET_ALL}";O(A,D=.05)
+def U():A=f"{B.RED}FILE HAS EXPIRED.{F.RESET_ALL}\n{B.YELLOW}DM {B.MAGENTA}maan {B.YELLOW}to Buy or RENEW.{F.RESET_ALL}";O(A,D=.05)
 def O(N,D=.01):
 	for A in N.split('\n'):L(A,D)
 M()
